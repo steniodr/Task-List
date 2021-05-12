@@ -1,16 +1,16 @@
-# tarefas_flutter
+# Tasks List
 
-A new Flutter project.
+## _App desenvolvido em Flutter, com o intuito de adicionar e organizar as tarefas diárias._
 
-## Getting Started
+## Desenvolvido com
+<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" alt="Flutter" width=200px >
 
-This project is a starting point for a Flutter application.
+App adiciona tarefas em uma lista, dando a opção de "Completar" ou deixar em "Aberto". Tambem é possivel _concluir_ a tarefa, arrastando-a para o lado. Um controle de "Desfazer" da a chance do usuário devolver uma tarefa concluida para a lista.
 
-A few resources to get you started if this is your first Flutter project:
+## Running
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Try Yourself
+
+Adicionado APK do app!
+Confira em [TasksList](https://github.com/steniodr/Task-List/blob/main/tasks-list.apk).
