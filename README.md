@@ -8,7 +8,7 @@
 App adiciona tarefas em uma lista, dando a opção de "Completar" ou deixar em "Aberto". Tambem é possivel _concluir_ a tarefa, arrastando-a para o lado. Um controle de "Desfazer" da a chance do usuário devolver uma tarefa concluida para a lista.
 
 ## Running
-
+<p align="center"> <img  src="https://github.com/steniodr/Task-List/blob/main/tasksList.gif" alt="app running" width=40%> </p>
 
 ## Try Yourself
 
